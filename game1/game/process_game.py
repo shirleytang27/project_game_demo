@@ -1,6 +1,6 @@
 import random
-
 from game import character_game
+
 #create 10 heros with its initial amount of blood,magic,money and EXpoints
 hero_one = character_game.characters('hero1', 1000, 1000, 500,0)
 hero_two = character_game.characters('hero2', 1000, 1000, 500,0)
