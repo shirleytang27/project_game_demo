@@ -2,7 +2,7 @@ Instructions:
 
 1.Clone the repository on your local computer.
 
-2.Open your terminal.
+2.Open your terminal, type 'pip install PyQt5'.
 
 3.Run file 'main.py'.
 
