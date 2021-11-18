@@ -1,8 +1,11 @@
 Instructions:
 
 1.Clone the repository on your local computer.
+
 2.Open your terminal.
+
 3.Run file 'main.py'.
+
 4.Follow the instructions.
 
 Contents about the project:
