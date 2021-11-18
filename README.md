@@ -4,7 +4,7 @@ Instructions:
 
 2.Open your terminal, type 'pip install PyQt5'.
 
-3.Run file 'main.py'.
+3. Please use pycharm to run file 'main.py'.
 
 4. Read the instructions on the top input box.
 
