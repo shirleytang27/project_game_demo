@@ -4,7 +4,7 @@ Instructions:
 
 2.Open your terminal, type 'pip install PyQt5'.
 
-3. Please use pycharm to run the whole folder 'game'.
+3. Please use pycharm to open the whole folder 'game1'.
 
 4. Read the instructions on the top input box.
 
