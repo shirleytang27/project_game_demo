@@ -8,7 +8,7 @@ Instructions:
 
 4. Read the instructions on the top input box in the interface or watch the video named 'game_demo' to see how it works.
 
-# If this still does not work, please contact me via email, so I could share an exe file with you, which could not be uploaded to Git due to its size.
+# If this still does not work, please do not hesitate to contact me via email, so I could share an exe file with you, which could not be uploaded to Git due to its size.
 
 
 Contents about the project:
